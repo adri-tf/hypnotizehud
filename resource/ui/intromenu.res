@@ -181,7 +181,7 @@
 		"pinCorner"									"2"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"BACK (&Q)"
+		"labelText"									"BACK (&A)"
 		"textAlignment"								"center"
 		"command"									"back"
 		"font"										"Size 14"

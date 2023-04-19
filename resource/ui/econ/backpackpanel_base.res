@@ -310,7 +310,7 @@
 		"pinCorner"									"0"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"&A"
+		"labelText"									"&Q"
 		"font"										"Size 18"
 		"textAlignment"								"center"
 		"Command"									"prevpage"

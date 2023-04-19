@@ -424,7 +424,7 @@
 		"pinCorner"									"3"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"Back (&Q)"
+		"labelText"									"Back (&A)"
 		"font"										"Size 14"
 		"textAlignment"								"center"
 		"default"									"1"

@@ -92,7 +92,7 @@
 		"pinCorner"									"3"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"BACK (&Q)"
+		"labelText"									"BACK (&A)"
 		"font"										"Size 14"
 		"textAlignment"								"center"
 		"default"									"0"

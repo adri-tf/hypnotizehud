@@ -235,7 +235,7 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"PrevButtonShortCut"
 		"xpos"										"9999"
-		"labelText"									"&A"
+		"labelText"									"&Q"
 		"Command"									"previtem"
 		"visible"									"1"
 		"sound_depressed"    						"UI/buttonclick.wav"

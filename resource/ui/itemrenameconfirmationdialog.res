@@ -261,7 +261,7 @@
 		"pinCorner"									"3"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"Cancel (&Q)"
+		"labelText"									"Cancel (&A)"
 		"font"										"Size 15"
 		"textAlignment"								"center"
 		"AllCaps"									"1"
