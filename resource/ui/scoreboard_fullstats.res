@@ -610,7 +610,9 @@
 
 			"if_mvm"
 			{
-				"visible"							"0"
+				"visible"							"1"
+				"xpos"								"60"
+				"ypos"								"10"
 			}
 		}
 
@@ -635,7 +637,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 			}
 		}
 
@@ -665,15 +667,6 @@
 			"if_mvm"
 			{
 				"visible"							"1"
-				"font"								"Size 10"
-				"textAlignment"						"west"
-				"xpos"								"0"
-				"ypos"								"0"
-				"wide"								"40"
-				"tall"								"11"
-				"pin_to_sibling" 					"KillsLabel"
-				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
-				"pin_to_sibling_corner" 			"PIN_TOPRIGHT"
 			}
 		}
 
@@ -698,11 +691,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
-
-				"pin_to_sibling" 					"KillsLabel"
-				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
-				"pin_to_sibling_corner" 			"PIN_BOTTOMLEFT"
+				"visible"							"0"
 			}
 		}
 
@@ -732,15 +721,6 @@
 			"if_mvm"
 			{
 				"visible"							"1"
-				"font"								"Size 10"
-				"textAlignment"						"west"
-				"xpos"								"0"
-				"ypos"								"0"
-				"wide"								"40"
-				"tall"								"11"
-				"pin_to_sibling" 					"DeathsLabel"
-				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
-				"pin_to_sibling_corner" 			"PIN_TOPRIGHT"
 			}
 		}
 
@@ -766,15 +746,11 @@
 			"if_mvm"
 			{
 				"visible"							"1"
-				"xpos"								"0"
-				"ypos"								"0"
-				"wide"								"50"
+				"xpos"								"125"
+				"ypos"								"10"
+				"wide"								"60"
 				"tall"								"11"
 				"font"								"Size 10"
-				"textAlignment"						"west"
-				"pin_to_sibling" 					"DeathsLabel"
-				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
-				"pin_to_sibling_corner" 			"PIN_BOTTOMLEFT"
 			}
 		}
 
@@ -807,7 +783,7 @@
 				"textAlignment"						"west"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"40"
+				"wide"								"35"
 				"tall"								"11"
 				"pin_to_sibling" 					"AssistsLabel"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
@@ -843,11 +819,11 @@
 				"visible"							"1"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"70"
+				"wide"								"75"
 				"tall"								"11"
 				"textAlignment"						"west"
 				"font"								"Size 10"
-				"pin_to_sibling" 					"KillsWhite"
+				"pin_to_sibling" 					"DefensesWhite"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
 				"pin_to_sibling_corner" 			"PIN_TOPRIGHT"
 			}
@@ -882,7 +858,7 @@
 				"textAlignment"						"west"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"40"
+				"wide"								"35"
 				"tall"								"11"
 				"pin_to_sibling" 					"DestructionLabel"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
@@ -915,7 +891,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"xpos"								"0"
 				"ypos"								"0"
 				"wide"								"70"
@@ -952,7 +928,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"font"								"Size 10"
 				"textAlignment"						"west"
 				"xpos"								"0"
@@ -993,7 +969,7 @@
 				"visible"							"1"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"70"
+				"wide"								"65"
 				"tall"								"11"
 				"textAlignment"						"west"
 				"font"								"Size 10"
@@ -1032,7 +1008,7 @@
 				"textAlignment"						"west"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"40"
+				"wide"								"35"
 				"tall"								"11"
 				"pin_to_sibling" 					"DefensesLabel"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
@@ -1065,7 +1041,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"xpos"								"0"
 				"ypos"								"0"
 				"wide"								"60"
@@ -1102,7 +1078,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"font"								"Size 10"
 				"textAlignment"						"west"
 				"xpos"								"0"
@@ -1140,7 +1116,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"xpos"								"0"
 				"ypos"								"0"
 				"wide"								"60"
@@ -1177,7 +1153,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"font"								"Size 10"
 				"textAlignment"						"west"
 				"xpos"								"0"
@@ -1215,7 +1191,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"xpos"								"0"
 				"ypos"								"0"
 				"wide"								"60"
@@ -1252,7 +1228,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"font"								"Size 10"
 				"textAlignment"						"west"
 				"xpos"								"0"
@@ -1291,13 +1267,13 @@
 			"if_mvm"
 			{
 				"visible"							"1"
-				"xpos"								"0"
-				"ypos"								"0"
+				"xpos"								"125"
+				"ypos"								"24"
 				"wide"								"60"
 				"tall"								"11"
 				"textAlignment"						"west"
 				"font"								"Size 10"
-				"pin_to_sibling" 					"DominationWhite"
+				"pin_to_sibling" 					""
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
 				"pin_to_sibling_corner" 			"PIN_TOPRIGHT"
 			}
@@ -1332,7 +1308,7 @@
 				"textAlignment"						"west"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"40"
+				"wide"								"35"
 				"tall"								"11"
 				"pin_to_sibling" 					"InvulnLabel"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
@@ -1368,11 +1344,11 @@
 				"visible"							"1"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"60"
+				"wide"								"65"
 				"tall"								"11"
 				"textAlignment"						"west"
 				"font"								"Size 10"
-				"pin_to_sibling" 					"RevengeWhite"
+				"pin_to_sibling" 					"InvulnWhite"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
 				"pin_to_sibling_corner" 			"PIN_TOPRIGHT"
 			}
@@ -1407,7 +1383,7 @@
 				"textAlignment"						"west"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"40"
+				"wide"								"35"
 				"tall"								"11"
 				"pin_to_sibling" 					"TeleportsLabel"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
@@ -1443,11 +1419,11 @@
 				"visible"							"1"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"60"
+				"wide"								"75"
 				"tall"								"11"
 				"textAlignment"						"west"
 				"font"								"Size 10"
-				"pin_to_sibling" 					"HealingWhite"
+				"pin_to_sibling" 					"TeleportsWhite"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
 				"pin_to_sibling_corner" 			"PIN_TOPRIGHT"
 			}
@@ -1482,7 +1458,7 @@
 				"textAlignment"						"west"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"40"
+				"wide"								"35"
 				"tall"								"11"
 				"pin_to_sibling" 					"HeadshotsLabel"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
@@ -1518,11 +1494,11 @@
 				"visible"							"1"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"60"
+				"wide"								"70"
 				"tall"								"11"
 				"textAlignment"						"west"
 				"font"								"Size 10"
-				"pin_to_sibling" 					"InvulnWhite"
+				"pin_to_sibling" 					"HeadshotsWhite"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
 				"pin_to_sibling_corner" 			"PIN_TOPRIGHT"
 			}
@@ -1557,7 +1533,7 @@
 				"textAlignment"						"west"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"40"
+				"wide"								"35"
 				"tall"								"11"
 				"pin_to_sibling" 					"BackstabsLabel"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
@@ -1590,14 +1566,14 @@
 
 			"if_mvm"
 			{
-				"visible"							"0"
+				"visible"							"1"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"60"
+				"wide"								"70"
 				"tall"								"11"
 				"textAlignment"						"west"
 				"font"								"Size 10"
-				"pin_to_sibling" 					"TeleportsWhite"
+				"pin_to_sibling" 					"DestructionWhite"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
 				"pin_to_sibling_corner" 			"PIN_TOPRIGHT"
 			}
@@ -1627,12 +1603,12 @@
 
 			"if_mvm"
 			{
-				"visible"							"0"
+				"visible"							"1"
 				"font"								"Size 10"
 				"textAlignment"						"west"
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"40"
+				"wide"								"35"
 				"tall"								"11"
 				"pin_to_sibling" 					"BonusLabel"
 				"pin_corner_to_sibling" 			"PIN_TOPLEFT"
@@ -1665,7 +1641,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"xpos"								"0"
 				"ypos"								"0"
 				"wide"								"60"
@@ -1702,7 +1678,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"font"								"Size 10"
 				"textAlignment"						"west"
 				"xpos"								"0"
@@ -1740,7 +1716,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"xpos"								"0"
 				"ypos"								"0"
 				"wide"								"60"
@@ -1777,7 +1753,7 @@
 
 			"if_mvm"
 			{
-				"visible"							"1"
+				"visible"							"0"
 				"font"								"Size 10"
 				"textAlignment"						"west"
 				"xpos"								"0"
