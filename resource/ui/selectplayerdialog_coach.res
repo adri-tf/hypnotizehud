@@ -20,14 +20,14 @@
 		{
 			"xpos"									"10"
 			"ypos"									"0"
-			"wide"									"350"
+			"wide"									"375"
 			"tall"									"30"
 
 			"button"
 			{
 				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"350"
+				"wide"								"375"
 				"tall"								"30"
 				"autoResize"						"0"
 				"pinCorner"							"3"
@@ -124,9 +124,21 @@
 			"fieldName"								"PlayerList"
 			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"190"
+			"wide"									"f0"
 			"tall"									"130"
 			"visible"								"1"
+		}
+		"ScrollBar"
+		{
+			"ControlName"							"ScrollBar"
+			"FieldName"								"ScrollBar"
+			"xpos"									"rs1"
+			"ypos"									"2"
+			"tall"									"f4"
+			"wide"									"5"
+			"zpos"									"1000"
+			"nobuttons"								"1"
+			"proportionaltoparent"					"1"
 		}
 	}
 
