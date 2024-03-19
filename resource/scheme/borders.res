@@ -5,12 +5,11 @@
 		//==============================================================================
 		// MATERIAL MAIN THEME
 		//==============================================================================
-
-		"MaterialHypno"
+		"Material_Hypno"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"Main Theme"
+			"color"						"Main_Theme"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -21,8 +20,7 @@
 		//==============================================================================
 		// MATERIAL BLUE
 		//==============================================================================
-
-		"MaterialBlue"
+		"Material_Blue"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -33,7 +31,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparentBlue50"
+		"Material_Transparent_Blue_50"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -43,7 +41,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparentBlue70"
+		"Material_Transparent_Blue_70"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -53,7 +51,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialBlueDark"
+		"Material_Blue_Dark"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -68,8 +66,7 @@
 		//==============================================================================
 		// MATERIAL RED
 		//==============================================================================
-
-		"MaterialRed"
+		"Material_Red"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -80,7 +77,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparentRed50"
+		"Material_Transparent_Red_50"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -90,7 +87,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparentRed70"
+		"Material_Transparent_Red_70"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -100,7 +97,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialRedDark"
+		"Material_Red_Dark"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -113,37 +110,20 @@
 		}
 
 		//==============================================================================
-		// MATERIAL WHITE
-		//==============================================================================
-
-		"MaterialWhite"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"White"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-
-		//==============================================================================
 		// MATERIAL GREEN
 		//==============================================================================
-
-		"MaterialGreen"
+		"Material_Green"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"green"
+			"color"						"CreditsGreen"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparentGreen50"
+		"Material_Transparent_Green_50"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -153,7 +133,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparentGreen70"
+		"Material_Transparent_Green_70"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -165,14 +145,46 @@
 		}
 
 		//==============================================================================
-		// MATERIAL PURPLE
+		// MATERIALS GRAY
 		//==============================================================================
-
-		"MaterialPurple"
+		"Material_Gray_Light"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"Purple"
+			"color"						"Gray_Light"
+			"image"						"replay/thumbnails/panels/material_generic"
+			"src_corner_height"			"24"
+			"src_corner_width"			"24"
+			"draw_corner_width"			"8"
+			"draw_corner_height"		"8"
+		}
+		"Material_Gray_Dark"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"2"
+			"color"						"Gray_Dark"
+			"image"						"replay/thumbnails/panels/material_generic"
+			"src_corner_height"			"24"
+			"src_corner_width"			"24"
+			"draw_corner_width"			"8"
+			"draw_corner_height"		"8"
+		}
+		"Material_Gray_Darker"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"2"
+			"color"						"Gray_Darker"
+			"image"						"replay/thumbnails/panels/material_generic"
+			"src_corner_height"			"24"
+			"src_corner_width"			"24"
+			"draw_corner_width"			"8"
+			"draw_corner_height"		"8"
+		}
+		"Material_Gray_Darkest"
+		{
+			"bordertype"				"scalable_image"
+			"backgroundtype"			"2"
+			"color"						"Gray_Darkest"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -181,221 +193,53 @@
 		}
 
 		//==============================================================================
-		// MATERIAL WHITEGRAY
+		// MATERIALS BLACK
 		//==============================================================================
-
-		"MaterialWhiteGray"
+		"Material_Black_Light"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"WhiteGray"
+			"color"						"Black_Light"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialReverseWhiteGray"
+		"Material_Reverse_Black_Light"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"WhiteGray"
+			"color"						"Black_Light"
 			"image"						"replay/thumbnails/panels/material_generic_reverse"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-
-		//==============================================================================
-		// MATERIAL GRAYLIGHT
-		//==============================================================================
-
-		"MaterialGrayLight"
+		"Material_Black_Dark"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayLight"
+			"color"						"Black_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialReverseGrayLight"
+		"Material_Reverse_Black_Dark"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayLight"
+			"color"						"Black_Dark"
 			"image"						"replay/thumbnails/panels/material_generic_reverse"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-
-		//==============================================================================
-		// MATERIAL GRAYMEDIUM
-		//==============================================================================
-
-		"MaterialGrayMedium"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayMedium"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"MaterialReverseGrayMedium"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayMedium"
-			"image"						"replay/thumbnails/panels/material_generic_reverse"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-
-		//==============================================================================
-		// MATERIAL GRAYDARK
-		//==============================================================================
-
-		"MaterialGrayDark"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayDark"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"MaterialReverseGrayDark"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayDark"
-			"image"						"replay/thumbnails/panels/material_generic_reverse"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-
-		//==============================================================================
-		// MATERIAL GRAYDARKER
-		//==============================================================================
-
-		"MaterialGrayDarker"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayDarker"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"MaterialReverseGrayDarker"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayDarker"
-			"image"						"replay/thumbnails/panels/material_generic_reverse"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-
-		//==============================================================================
-		// MATERIAL GRAYDARKEST
-		//==============================================================================
-
-		"MaterialGrayDarkest"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayDarkest"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"MaterialReverseGrayDarkest"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayDarkest"
-			"image"						"replay/thumbnails/panels/material_generic_reverse"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-
-		//==============================================================================
-		// MATERIAL BLACKLIGHT
-		//==============================================================================
-
-		"MaterialBlackLight"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"BlackLight"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"MaterialReverseBlackLight"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"BlackLight"
-			"image"						"replay/thumbnails/panels/material_generic_reverse"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-
-		//==============================================================================
-		// MATERIAL BLACKDARK
-		//==============================================================================
-
-		"MaterialBlackDark"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"BlackDark"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"MaterialReverseBlackDark"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"BlackDark"
-			"image"						"replay/thumbnails/panels/material_generic_reverse"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"MaterialTransparent30"
+		"Material_Transparent_30"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -405,7 +249,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparent50"
+		"Material_Transparent_50"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -415,7 +259,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparent70"
+		"Material_Transparent_70"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -425,7 +269,7 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"MaterialTransparent90"
+		"Material_Transparent_90"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -439,8 +283,7 @@
 		//==============================================================================
 		// HEALTH BOX MATERIALS FOR TARGETID AND KILLCAM
 		//==============================================================================
-
-		"HealthBorder"
+		"Health_Border"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
@@ -450,60 +293,22 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"BuffedBorder"
+		"Buffed_Border"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"Buffed Health Pulse"
+			"color"						"Buffed_Health_Pulse"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
-		"HurtBorder"
+		"Hurt_Border"
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"Low Health Pulse"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-
-		//==============================================================================
-		// HEALTH BOX MATERIALS FOR SPECTATOR UI
-		//==============================================================================
-
-		"SpectatorHealthBorder"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"GrayDark"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"SpectatorBuffedBorder"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"Buffed Health Spec"
-			"image"						"replay/thumbnails/panels/material_generic"
-			"src_corner_height"			"24"
-			"src_corner_width"			"24"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
-		}
-		"SpectatorHurtBorder"
-		{
-			"bordertype"				"scalable_image"
-			"backgroundtype"			"2"
-			"color"						"Low Health Spec"
+			"color"						"Low_Health_Pulse"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -514,7 +319,6 @@
 		//==============================================================================
 		// DEFAULT BORDERS
 		//==============================================================================
-
 		"NoBorder"
 		{
 			"inset"						"0 0 0 0"
@@ -640,7 +444,7 @@
 			{
 				"1"
 				{
-					"color"				"WhiteDark"
+					"color"				"White_Dark"
 					"offset"			"0 1"
 				}
 			}
@@ -648,7 +452,7 @@
 			{
 				"1"
 				{
-					"color"				"WhiteDark"
+					"color"				"White_Dark"
 					"offset"			"1 0"
 				}
 			}
@@ -656,7 +460,7 @@
 			{
 				"1"
 				{
-					"color"				"WhiteDark"
+					"color"				"White_Dark"
 					"offset"			"0 0"
 				}
 			}
@@ -664,7 +468,7 @@
 			{
 				"1"
 				{
-					"color"				"WhiteDark"
+					"color"				"White_Dark"
 					"offset"			"0 0"
 				}
 			}
@@ -677,7 +481,7 @@
 			{
 				"1"
 				{
-					"color"				"WhiteDark"
+					"color"				"White_Dark"
 					"offset"			"0 1"
 				}
 			}
@@ -685,7 +489,7 @@
 			{
 				"1"
 				{
-					"color"				"WhiteDark"
+					"color"				"White_Dark"
 					"offset"			"1 0"
 				}
 			}
@@ -693,7 +497,7 @@
 			{
 				"1"
 				{
-					"color"				"WhiteDark"
+					"color"				"White_Dark"
 					"offset"			"0 0"
 				}
 			}
@@ -701,7 +505,7 @@
 			{
 				"1"
 				{
-					"color"				"WhiteDark"
+					"color"				"White_Dark"
 					"offset"			"0 0"
 				}
 			}
@@ -773,7 +577,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -784,7 +588,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -795,7 +599,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"BlackLight"
+			"color"						"Black_Light"
 			"image"						"replay/thumbnails/panels/bg_generic"
 			"src_corner_height"			"23"
 			"src_corner_width"			"23"
@@ -806,7 +610,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -903,7 +707,7 @@
 		"TFFatLineBorderClearBG"
 		{
 			"bordertype"				"scalable_image"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -964,7 +768,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"offset"					"0 0"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
@@ -1018,7 +822,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"BlackDark"
+			"color"						"Black_Dark"
 			"image"						"replay/thumbnails/panels/Material_Generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2243,7 +2047,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"BlackDark"
+			"color"						"Black_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2254,7 +2058,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDarker"
+			"color"						"Gray_Darker"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2265,7 +2069,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"Main Theme"
+			"color"						"Main_Theme"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2276,7 +2080,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2287,7 +2091,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"Main Theme"
+			"color"						"Main_Theme"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2298,7 +2102,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"BlackDark"
+			"color"						"Black_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2329,7 +2133,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2340,7 +2144,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2361,7 +2165,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2372,7 +2176,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2383,7 +2187,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"BlackDark"
+			"color"						"Black_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2599,7 +2403,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2610,7 +2414,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2621,7 +2425,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2632,7 +2436,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2643,7 +2447,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2654,7 +2458,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2665,7 +2469,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"GrayDark"
+			"color"						"Gray_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2676,7 +2480,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"backgroundtype"			"2"
-			"color"						"BlackDark"
+			"color"						"Black_Dark"
 			"image"						"replay/thumbnails/panels/material_generic"
 			"src_corner_height"			"24"
 			"src_corner_width"			"24"
@@ -2873,12 +2677,12 @@
 			{
 				"1"
 				{
-					"color"				"Main Theme"
+					"color"				"Main_Theme"
 					"offset"			"0 0"
 				}
 				"2"
 				{
-					"color"				"Main Theme"
+					"color"				"Main_Theme"
 					"offset"			"0 0"
 				}
 			}
@@ -2886,12 +2690,12 @@
 			{
 				"1"
 				{
-					"color"				"Main Theme"
+					"color"				"Main_Theme"
 					"offset"			"0 0"
 				}
 				"2"
 				{
-					"color"				"Main Theme"
+					"color"				"Main_Theme"
 					"offset"			"0 0"
 				}
 			}
@@ -2899,12 +2703,12 @@
 			{
 				"1"
 				{
-					"color"				"Main Theme"
+					"color"				"Main_Theme"
 					"offset"			"0 0"
 				}
 				"2"
 				{
-					"color"				"Main Theme"
+					"color"				"Main_Theme"
 					"offset"			"0 0"
 				}
 			}
@@ -2912,12 +2716,12 @@
 			{
 				"1"
 				{
-					"color"				"Main Theme"
+					"color"				"Main_Theme"
 					"offset"			"0 0"
 				}
 				"2"
 				{
-					"color"				"Main Theme"
+					"color"				"Main_Theme"
 					"offset"			"0 0"
 				}
 			}

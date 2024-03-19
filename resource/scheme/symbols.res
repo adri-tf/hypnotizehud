@@ -2,187 +2,187 @@
 {
 	"Fonts"
 	{
-		"Symbols 10"
+		"Symbols_10"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"10"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 12"
+		"Symbols_12"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"12"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 14"
+		"Symbols_14"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"14"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 14 Blur"
+		"Symbols_14_Blur"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"14"
 				"antialias"									"1"
 				"blur"										"1"
 			}
 		}
-		"Symbols 16"
+		"Symbols_16"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"16"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 16 Blur"
+		"Symbols_16_Blur"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"16"
 				"antialias"									"1"
 				"blur"										"1"
 			}
 		}
-		"Symbols 18"
+		"Symbols_18"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"18"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 18 Blur"
+		"Symbols_18_Blur"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"18"
 				"antialias"									"1"
 				"blur"										"1"
 			}
 		}
-		"Symbols 20"
+		"Symbols_20"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"20"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 20 Blur"
+		"Symbols_20_Blur"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"20"
 				"antialias"									"1"
 				"blur"										"1"
 			}
 		}
-		"Symbols 22"
+		"Symbols_22"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"22"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 22 Blur"
+		"Symbols_22_Blur"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"22"
 				"antialias"									"1"
 				"blur"										"1"
 			}
 		}
-		"Symbols 24"
+		"Symbols_24"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"24"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 24 Blur"
+		"Symbols_24_Blur"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"24"
 				"antialias"									"1"
 				"blur"										"1"
 			}
 		}
-		"Symbols 26"
+		"Symbols_26"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"26"
 				"antialias"									"1"
 			}
 		}
 
-		"Symbols 30"
+		"Symbols_30"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"30"
 				"antialias"									"1"
 			}
 		}
 
-		"Symbols 34"
+		"Symbols_34"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"34"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 46"
+		"Symbols_46"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"46"
 				"antialias"									"1"
 			}
 		}
-		"Symbols 50"
+		"Symbols_50"
 		{
 			"1"
 			{
-				"name"										"Hypnotize Icons V7"
+				"name"										"Hypnotize Icons V8"
 				"tall"										"50"
 				"antialias"									"1"
 			}
 		}
 
-		"Class Symbols 18"
+		"Class_Symbols_18"
 		{
 			"1"
 			{
@@ -191,7 +191,7 @@
 				"antialias"									"1"
 			}
 		}
-		"Class Symbols 28"
+		"Class_Symbols_28"
 		{
 			"1"
 			{
@@ -200,7 +200,7 @@
 				"antialias"									"1"
 			}
 		}
-		"Class Symbols 48"
+		"Class_Symbols_48"
 		{
 			"1"
 			{
@@ -209,7 +209,7 @@
 				"antialias"									"1"
 			}
 		}
-		"Class Symbols 56"
+		"Class_Symbols_56"
 		{
 			"1"
 			{
@@ -219,7 +219,7 @@
 			}
 		}
 
-		"BlocksSharp64"
+		"BlocksSharp_64"
 		{
 			"1"
 			{
@@ -228,7 +228,7 @@
 			}
 		}
 
-		"ReadyUp 24"
+		"ReadyUp_24"
 		{
 			"1"
 			{
@@ -237,7 +237,7 @@
 				"antialias"									"1"
 			}
 		}
-		"ReadyUp 24 Blur"
+		"ReadyUp_24_Blur"
 		{
 			"1"
 			{
@@ -253,26 +253,26 @@
 	{
 		"30"
 		{
-			"font" "resource/scheme/fonts/Hypnotize Icons.ttf" [$WINDOWS]
-			"font" "resource/scheme/fonts/Hypnotize Icons Linux.ttf" [$POSIX]
-			"name" "Hypnotize Icons V7"
+			"font"	"resource/scheme/fonts/Hypnotize_Icons.ttf"			[$WINDOWS]
+			"font"	"resource/scheme/fonts/Hypnotize_Icons_Linux.ttf"	[$POSIX]
+			"name"	"Hypnotize Icons V8"
 		}
 		"31"
 		{
-			"font" "resource/scheme/fonts/TF2 Class Icons.ttf"  [$WINDOWS]
-			"font" "resource/scheme/fonts/TF2 Class Icons Linux.ttf" [$POSIX]
-			"name" "TF2 Class Icons V3"
+			"font"	"resource/scheme/fonts/TF2_Class_Icons.ttf"			[$WINDOWS]
+			"font"	"resource/scheme/fonts/TF2_Class_Icons_Linux.ttf"	[$POSIX]
+			"name"	"TF2 Class Icons V3"
 		}
 		"32"
 		{
-			"font"	"resource/scheme/fonts/Readyup Symbols.otf" [$WINDOWS]
-			"font"	"resource/scheme/fonts/Readyup Symbols Linux.otf" [$POSIX]
+			"font"	"resource/scheme/fonts/Readyup_Symbols.otf"			[$WINDOWS]
+			"font"	"resource/scheme/fonts/Readyup_Symbols_Linux.otf"	[$POSIX]
 			"name"	"ReadyUp Symbols"
 		}
 		"33"
 		{
-			"font" "resource/scheme/fonts/Blocks.ttf"
-			"name" "Blocks"
+			"font"	"resource/scheme/fonts/Blocks.ttf"
+			"name"	"Blocks"
 		}
 	}
 }
