@@ -89,7 +89,7 @@
 		"tall"										"22"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"BACK (&R)"
+		"labelText"									"BACK (&Q)"
 		"font"										"Size_14"
 		"textAlignment"								"center"
 		"default"									"0"

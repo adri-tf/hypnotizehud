@@ -101,7 +101,7 @@
 		"tall"										"30"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									" CONTINUE (&Y)"
+		"labelText"									" CONTINUE (&E)"
 		"textAlignment"								"center"
 		"textinsety"								"1"
 		"wrap"										"0"

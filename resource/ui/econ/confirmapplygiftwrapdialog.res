@@ -239,7 +239,7 @@
 		"tall"										"25"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"Cancel (&R)"
+		"labelText"									"Cancel (&Q)"
 		"font"										"Size_14"
 		"textAlignment"								"center"
 		"AllCaps"									"1"

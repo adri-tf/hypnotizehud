@@ -69,7 +69,7 @@
 			"model_ypos"							"5"
 			"model_wide"							"87"
 			"model_tall"							"63"
-			
+
 			"text_wide"								"140"
 			"text_xpos"								"0"
 			"text_ypos"								"80"
@@ -314,7 +314,7 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"PrevPageShortCut"
 		"xpos"										"9999"
-		"labelText"									"&F"
+		"labelText"									"&A"
 		"Command"									"prevpage"
 		"visible"									"1"
 		"sound_depressed"							"UI/buttonclick.wav"
@@ -377,7 +377,7 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"NextPageShortCut"
 		"xpos"										"9999"
-		"labelText"									"&H"
+		"labelText"									"&D"
 		"Command"									"nextpage"
 		"visible"									"1"
 		"sound_depressed"							"UI/buttonclick.wav"
